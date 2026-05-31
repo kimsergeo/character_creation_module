@@ -119,4 +119,5 @@ def main():
     print(start_training(char_name, char_class))
 
 
-main()
+if __name__ == "__main__":
+    main()
